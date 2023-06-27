@@ -38,13 +38,13 @@ To run **Tourly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
+sudo git clone https://github.com/CatCoder52/tourly.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourly.git
+git clone https://github.com/CatCoder52/tourly.git
 ```
 
 ### Contact
